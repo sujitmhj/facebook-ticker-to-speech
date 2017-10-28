@@ -4,3 +4,5 @@ class ListFriends(object):
 		super(ListFriends, self).__init__()
 		self.arg = arg
 		
+	def get_friend_list(self):
+		pass
